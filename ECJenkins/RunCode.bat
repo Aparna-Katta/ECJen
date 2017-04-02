@@ -5,5 +5,5 @@ cd ..\..\bin
 SET CLASSPATH=bin\*;
 cls
 java EC.Sample
-
+https://www.youtube.com/watch?v=BH4OqYHoHC0
 pause
